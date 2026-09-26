@@ -1,1 +1,1 @@
-original line
+changed in conflict_test
